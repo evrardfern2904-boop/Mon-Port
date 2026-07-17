@@ -59,7 +59,7 @@ nav a:hover {
   height: 180px;
   object-fit: cover;
   border-radius: 10px;
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 .images img:hover {
