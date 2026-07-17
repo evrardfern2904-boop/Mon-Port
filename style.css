@@ -33,7 +33,7 @@ nav a:hover {
 
 .profil { 
   .profil {
-    width: 200px;          /* Taille de l'image */
+    width: 100px;          /* Taille de l'image */
     height: 200px;
     border-radius: 50%;    /* Rend l'image ronde */
     object-fit: cover;     /* Évite que l'image soit déformée */
