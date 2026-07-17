@@ -34,8 +34,8 @@ nav a:hover {
 .profil { 
   .profil {
     width: 100px;          /* Taille de l'image */
-    height: 200px;
-    border-radius: 50%;    /* Rend l'image ronde */
+    height: 05px;
+    border-radius: 100%;    /* Rend l'image ronde */
     object-fit: cover;     /* Évite que l'image soit déformée */
     display: block;
     margin: 20px auto;     /* Centre l'image */
